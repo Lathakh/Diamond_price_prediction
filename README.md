@@ -8,10 +8,14 @@
 
   command: 
 
-  git add file_name
+        git add file_name
 
-   git add .   # all the files in folder
+         git add .   # all the files in folder
 
 # commit the file to git repository
  
  command :  git commit -m "first commit"
+
+ # fetching changes in github repository to vscode folder
+
+ command :  git pull
